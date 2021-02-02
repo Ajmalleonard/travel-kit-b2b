@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// trust the process it is what it is - 547
+// fine, this logic is trash - 550
