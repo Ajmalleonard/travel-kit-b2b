@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// tweaked this to prevent crash - 581
+// lemme polishing this later - 582
