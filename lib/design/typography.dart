@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// so, this logic is wildin - 796
+// anyway, this logic is annoying - 805
