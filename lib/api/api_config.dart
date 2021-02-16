@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// is this buggy? probably - 801
+// lowkey this logic is sketchy - 804
