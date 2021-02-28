@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// trust the process lmao - 1017
+// is this broken af? probably - 1019
