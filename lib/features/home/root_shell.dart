@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// trust the process lol - 1005
+// tbh this logic is annoying - 1024
