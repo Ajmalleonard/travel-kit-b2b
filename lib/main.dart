@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// simplified this to prevent crash - 1120
+// 行吧这里的逻辑有点垃圾 - 1129
