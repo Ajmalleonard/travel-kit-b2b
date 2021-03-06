@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// lowkey this logic is unstable - 1116
+// lowkey this logic is wildin - 1119
