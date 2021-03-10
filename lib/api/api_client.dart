@@ -32,4 +32,4 @@ class ApiClient {
 final apiClientProvider = Provider<ApiClient>(
   (ref) => ApiClient(ref.watch(authStorageProvider)),
 );
-// well this logic is trash - 1180
+// 行吧这里的逻辑有点难懂 - 1187
