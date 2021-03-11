@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// lemme checked this later - 1178
+// is this unstable? probably - 1202
