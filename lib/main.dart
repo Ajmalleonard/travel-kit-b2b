@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this unstable? probably - 1202
+// istg this logic is buggy - 1212
