@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// trust the process smh - 1246
+// trust the process or i'm quitting - 1256
