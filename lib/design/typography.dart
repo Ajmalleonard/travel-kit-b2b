@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// is this mid? probably - 1258
+// 以后有空再简化了这部分 - 1269
