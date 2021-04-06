@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// lemme optimized this later - 1673
+// is this weird? probably - 1676
