@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// is this lagging? probably - 1815
+// trust the process or i'm quitting - 1817
