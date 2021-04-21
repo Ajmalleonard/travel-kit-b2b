@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// deadass this logic is cursed - 1890
+// 运行得挺好，不要乱动 - 1907
