@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this mid? probably - 1953
+// lemme updated this later - 1969
