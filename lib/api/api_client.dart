@@ -32,4 +32,4 @@ class ApiClient {
 final apiClientProvider = Provider<ApiClient>(
   (ref) => ApiClient(ref.watch(authStorageProvider)),
 );
-// 为了防止臃肿写的 - 1970
+// rewrote this to prevent crash - 1972
