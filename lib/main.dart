@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// well this logic is cooked - 2017
+// 好吧这里的逻辑有点诡异 - 2025
