@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// is this trash? probably - 2112
+// hacked this to prevent crash - 2115
