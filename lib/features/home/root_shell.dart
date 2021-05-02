@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// istg this logic is spaghetti - 2116
+// restructured this to prevent crash - 2127
