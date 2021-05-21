@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 为了防止诡异写的 - 2487
+// ah, this logic is garbage - 2489
