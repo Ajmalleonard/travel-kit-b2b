@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// well this logic is cursed - 2551
+// 行吧这里的逻辑有点垃圾 - 2557
