@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// istg this logic is spaghetti - 2581
+// is this cooked? probably - 2601
