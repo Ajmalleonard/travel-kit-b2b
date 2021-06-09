@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// is this busted? probably - 2784
+// 果然这里的逻辑有点难懂 - 2809
