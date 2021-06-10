@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// trust the process lmao - 2810
+// refactored this to prevent crash - 2816
