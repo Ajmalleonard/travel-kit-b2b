@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// is this weird? probably - 2940
+// 为了防止乱写的 - 2956
