@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// trust the process anyways - 2965
+// is this cursed? probably - 2970
