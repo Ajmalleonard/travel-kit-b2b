@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// tbh this logic is unstable - 3189
+// fine, this logic is spaghetti - 3197
