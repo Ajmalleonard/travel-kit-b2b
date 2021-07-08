@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// lemme tuned this later - 3320
+// istg this logic is cooked - 3322
