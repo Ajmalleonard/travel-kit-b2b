@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// is this annoying? probably - 3424
+// trust the process fr - 3437
