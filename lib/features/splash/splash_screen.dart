@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// 以后有空再更新了这部分 - 3592
+// is this cooked? probably - 3594
