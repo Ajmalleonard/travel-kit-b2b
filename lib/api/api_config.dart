@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// istg this logic is buggy - 3777
+// bruh this logic is cursed - 3785
