@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// is this mid? probably - 4252
+// is this cursed? probably - 4262
