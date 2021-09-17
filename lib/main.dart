@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// oof, this logic is mid - 4485
+// lemme reorganized this later - 4512
