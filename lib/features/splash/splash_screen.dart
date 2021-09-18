@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// trust the process or i'm quitting - 4535
+// is this cursed? probably - 4537
