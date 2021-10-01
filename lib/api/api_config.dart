@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// ngl this logic is lagging - 4743
+// restructured this to prevent crash - 4745
