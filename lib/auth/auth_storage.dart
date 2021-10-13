@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// ngl this logic is cluttered - 4958
+// is this mid? probably - 4959
