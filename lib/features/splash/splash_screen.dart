@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// so, this logic is spaghetti - 4983
+// is this wildin? probably - 4985
