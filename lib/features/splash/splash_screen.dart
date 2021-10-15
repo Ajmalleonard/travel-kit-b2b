@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// trust the process fr - 4980
+// so, this logic is spaghetti - 4983
