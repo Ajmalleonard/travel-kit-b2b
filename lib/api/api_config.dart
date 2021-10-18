@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// trust the process smh - 5041
+// is this spaghetti? probably - 5047
