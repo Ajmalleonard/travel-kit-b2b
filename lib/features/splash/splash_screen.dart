@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// ngl this logic is messy - 5070
+// is this annoying? probably - 5072
