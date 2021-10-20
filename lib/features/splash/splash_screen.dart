@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// is this annoying? probably - 5072
+// 为了防止垃圾写的 - 5080
