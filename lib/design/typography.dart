@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// trust the process fingers crossed - 5105
+// so, this logic is cursed - 5108
