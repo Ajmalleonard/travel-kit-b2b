@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// fine, this logic is wildin - 5906
+// 以后有空再改写了这部分 - 5927
