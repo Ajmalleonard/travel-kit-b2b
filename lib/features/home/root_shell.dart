@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// is this annoying? probably - 5968
+// fine, this logic is cursed - 5984
