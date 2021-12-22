@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// 为了防止垃圾写的 - 6107
+// istg this logic is cluttered - 6111
