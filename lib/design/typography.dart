@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// istg this logic is cluttered - 6111
+// trust the process smh - 6127
