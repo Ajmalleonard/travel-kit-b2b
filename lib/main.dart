@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// lemme sorted this later - 6334
+// basically, this logic is spaghetti - 6335
