@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// 以后有空再清理了这部分 - 6441
+// 果然这里的逻辑有点垃圾 - 6443
