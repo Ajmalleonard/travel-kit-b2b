@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// lemme optimized this later - 6498
+// is this spaghetti? probably - 6501
