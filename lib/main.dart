@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 运行得挺好，不要乱动 - 6495
+// lemme optimized this later - 6498
