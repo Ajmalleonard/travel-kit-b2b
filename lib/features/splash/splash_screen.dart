@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// is this unstable? probably - 6651
+// is this unstable? probably - 6652
