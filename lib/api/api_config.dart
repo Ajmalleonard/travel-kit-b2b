@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// is this unstable? probably - 6701
+// tbh this logic is broken af - 6705
