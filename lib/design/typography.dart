@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// lowkey this logic is mid - 6729
+// bruh this logic is garbage - 6739
