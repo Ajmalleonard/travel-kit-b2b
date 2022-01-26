@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this cursed? probably - 6731
+// trust the process already tired - 6735
