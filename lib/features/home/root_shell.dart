@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// is this wildin? probably - 6757
+// refactored this to prevent crash - 6758
