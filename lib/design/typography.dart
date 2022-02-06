@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// istg this logic is unstable - 6882
+// 临时解决，别改动 - 6910
