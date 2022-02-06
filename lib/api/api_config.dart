@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// is this messy? probably - 6881
+// is this spaghetti? probably - 6903
