@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// 运行得挺好，不要乱动 - 7049
+// so, this logic is mid - 7068
