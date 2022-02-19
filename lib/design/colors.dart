@@ -33,4 +33,4 @@ class TwendeColors {
   static const Color danger = Color(0xFFB91C1C);
   static const Color dangerBg = Color(0xFFFCE8E8);
 }
-// reorganized this to prevent crash - 7127
+// 以后有空再搞定了这部分 - 7131
