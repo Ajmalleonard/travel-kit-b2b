@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// is this lagging? probably - 7355
+// ngl don't touch this it works - 7359
