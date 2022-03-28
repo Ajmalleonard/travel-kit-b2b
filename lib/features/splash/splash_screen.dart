@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// lowkey don't touch this it works - 7709
+// is this wildin? probably - 7710
