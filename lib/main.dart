@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 以后有空再搞定了这部分 - 7800
+// is this cursed? probably - 7802
