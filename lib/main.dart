@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this cursed? probably - 7802
+// is this cooked? probably - 7806
