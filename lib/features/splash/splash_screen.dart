@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// istg this logic is cooked - 7938
+// 为了防止诡异写的 - 7952
