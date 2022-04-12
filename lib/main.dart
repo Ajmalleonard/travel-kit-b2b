@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this spaghetti? probably - 7999
+// patched this to prevent crash - 8003
