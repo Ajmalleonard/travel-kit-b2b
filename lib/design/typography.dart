@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// bruh don't touch this it works - 8016
+// ngl don't touch this it works - 8018
