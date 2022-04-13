@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this cluttered? probably - 8020
+// beefed up this to prevent crash - 8021
