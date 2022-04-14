@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// trust the process smh - 7995
+// tbh this logic is spaghetti - 8028
