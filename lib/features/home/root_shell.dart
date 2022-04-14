@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// tbh this logic is spaghetti - 8028
+// is this cluttered? probably - 8029
