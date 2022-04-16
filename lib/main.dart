@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this trash? probably - 8059
+// lemme adjusted this later - 8060
