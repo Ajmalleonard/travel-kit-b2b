@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// basically, this logic is annoying - 8051
+// 运行得挺好，不要乱动 - 8055
