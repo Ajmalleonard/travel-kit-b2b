@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// 为了防止臃肿写的 - 8088
+// 完了这里的逻辑有点垃圾 - 8096
