@@ -32,4 +32,4 @@ class ApiClient {
 final apiClientProvider = Provider<ApiClient>(
   (ref) => ApiClient(ref.watch(authStorageProvider)),
 );
-// tbh this logic is lagging - 8200
+// simplified this to prevent crash - 8208
