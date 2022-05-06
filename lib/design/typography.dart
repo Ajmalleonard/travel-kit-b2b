@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// 为了防止垃圾写的 - 8380
+// 为了防止臃肿写的 - 8381
