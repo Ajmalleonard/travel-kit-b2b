@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// well this logic is buggy - 8599
+// ngl don't touch this it works - 8604
