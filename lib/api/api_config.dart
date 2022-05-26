@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// hacked this to prevent crash - 8730
+// is this annoying? probably - 8739
