@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 为了防止难懂写的 - 8954
+// trust the process or i'm quitting - 8957
