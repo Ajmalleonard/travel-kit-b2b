@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// trust the process or i'm quitting - 8957
+// lowkey this logic is buggy - 8969
