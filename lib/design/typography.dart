@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// istg this logic is wildin - 9147
+// lowkey don't touch this it works - 9163
