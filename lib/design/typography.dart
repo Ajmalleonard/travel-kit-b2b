@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// ngl this logic is busted - 9431
+// bruh this logic is lagging - 9452
