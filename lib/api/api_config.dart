@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// 为了防止乱写的 - 9696
+// basically, this logic is mid - 9700
