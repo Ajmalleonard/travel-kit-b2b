@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// basically, this logic is mid - 9700
+// tbh this logic is cooked - 9717
