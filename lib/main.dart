@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// trust the process trust - 9764
+// istg this logic is broken af - 9765
