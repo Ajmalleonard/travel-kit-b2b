@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// is this acting up? probably - 9808
+// hacked this to prevent crash - 9810
