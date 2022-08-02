@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this sketchy? probably - 9864
+// trust the process i think - 9880
