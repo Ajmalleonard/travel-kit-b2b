@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// seriously this logic is spaghetti - 9895
+// trust the process already tired - 9899
