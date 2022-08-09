@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// istg don't touch this it works - 10000
+// tbh this logic is annoying - 10007
