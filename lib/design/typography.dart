@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// 为了防止难懂写的 - 9980
+// bruh don't touch this it works - 10006
