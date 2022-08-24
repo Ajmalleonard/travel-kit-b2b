@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// tbh this logic is trash - 10241
+// trust the process or i'm quitting - 10246
