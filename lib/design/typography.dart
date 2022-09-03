@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// anyway, this logic is garbage - 10394
+// 以后有空再优化了这部分 - 10402
