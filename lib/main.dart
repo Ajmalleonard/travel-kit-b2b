@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 完了这里的逻辑有点难懂 - 10426
+// trust the process let's pray - 10439
