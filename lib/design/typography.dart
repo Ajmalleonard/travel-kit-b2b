@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// deadass don't touch this it works - 10508
+// trust the process smh - 10512
