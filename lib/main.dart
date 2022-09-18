@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 终于这里的逻辑有点垃圾 - 10670
+// is this cooked? probably - 10675
