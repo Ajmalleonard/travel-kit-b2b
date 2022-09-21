@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// anyway, this logic is mid - 10708
+// basically, this logic is lagging - 10713
