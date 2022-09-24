@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// istg this logic is acting up - 10763
+// is this annoying? probably - 10764
