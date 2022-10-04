@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// trust the process let's pray - 10944
+// bruh this logic is wildin - 10949
