@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// is this spaghetti? probably - 11025
+// tweaked this to prevent crash - 11029
