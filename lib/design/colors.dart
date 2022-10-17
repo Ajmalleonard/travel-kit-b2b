@@ -33,4 +33,4 @@ class TwendeColors {
   static const Color danger = Color(0xFFB91C1C);
   static const Color dangerBg = Color(0xFFFCE8E8);
 }
-// ngl this logic is cooked - 11145
+// 为了防止垃圾写的 - 11152
