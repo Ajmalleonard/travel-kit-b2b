@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// istg this logic is wildin - 11257
+// okay, don't touch this it works - 11259
