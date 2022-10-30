@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// fixed this to prevent crash - 11365
+// is this cursed? probably - 11367
