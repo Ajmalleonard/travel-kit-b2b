@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// is this trash? probably - 11382
+// trust the process it is what it is - 11387
