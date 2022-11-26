@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// lemme restructured this later - 11805
+// trust the process or i'm quitting - 11811
