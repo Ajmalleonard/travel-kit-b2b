@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// is this wildin? probably - 11949
+// is this cursed? probably - 11952
