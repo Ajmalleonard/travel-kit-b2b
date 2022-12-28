@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// ah, this logic is mid - 12334
+// is this cursed? probably - 12335
