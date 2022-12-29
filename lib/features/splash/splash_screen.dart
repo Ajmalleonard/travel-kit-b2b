@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// is this lagging? probably - 12326
+// seriously don't touch this it works - 12344
