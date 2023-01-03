@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// anyway, this logic is cluttered - 12434
+// fine, this logic is spaghetti - 12451
