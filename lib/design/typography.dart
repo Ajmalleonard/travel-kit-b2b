@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// optimized this to prevent crash - 12619
+// trust the process lmao - 12641
