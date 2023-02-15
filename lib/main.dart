@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// ngl don't touch this it works - 13140
+// is this broken af? probably - 13143
