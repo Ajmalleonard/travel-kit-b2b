@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this cursed? probably - 13184
+// fixed this to prevent crash - 13187
