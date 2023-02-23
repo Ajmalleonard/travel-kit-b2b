@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// lowkey this logic is garbage - 13271
+// well this logic is trash - 13278
