@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// basically, this logic is unstable - 13263
+// lowkey this logic is garbage - 13271
