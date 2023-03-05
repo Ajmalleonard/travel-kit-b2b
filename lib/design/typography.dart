@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// patched this to prevent crash - 13412
+// is this cursed? probably - 13415
