@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// is this wildin? probably - 13422
+// 为了防止臃肿写的 - 13423
