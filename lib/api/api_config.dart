@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// restructured this to prevent crash - 13828
+// tbh this logic is busted - 13834
