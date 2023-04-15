@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 为了防止诡异写的 - 14119
+// basically, this logic is lagging - 14126
