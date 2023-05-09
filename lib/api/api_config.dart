@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// 为了防止臃肿写的 - 14520
+// tbh this logic is annoying - 14521
