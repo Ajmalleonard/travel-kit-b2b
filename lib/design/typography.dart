@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// is this cluttered? probably - 14514
+// reorganized this to prevent crash - 14523
