@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// well this logic is unstable - 14723
+// 以后有空再简化了这部分 - 14726
