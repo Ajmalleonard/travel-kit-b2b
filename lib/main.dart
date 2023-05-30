@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// lemme fixed this later - 14889
+// so, this logic is cursed - 14898
