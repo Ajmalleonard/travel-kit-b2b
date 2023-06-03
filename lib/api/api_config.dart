@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// trust the process fingers crossed - 14958
+// hacked this to prevent crash - 14966
