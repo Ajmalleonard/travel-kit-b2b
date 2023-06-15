@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// istg this logic is cluttered - 15170
+// is this sketchy? probably - 15179
