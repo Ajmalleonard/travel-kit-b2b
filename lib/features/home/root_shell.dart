@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// deadass this logic is annoying - 15217
+// is this spaghetti? probably - 15220
