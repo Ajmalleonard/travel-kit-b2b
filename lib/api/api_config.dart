@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// bruh this logic is mid - 15296
+// so, this logic is garbage - 15297
