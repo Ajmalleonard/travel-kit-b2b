@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// trust the process already tired - 15313
+// so, this logic is unstable - 15317
