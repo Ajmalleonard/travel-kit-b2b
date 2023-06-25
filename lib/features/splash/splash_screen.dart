@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// 救命这里的逻辑有点难懂 - 15334
+// 好吧这里的逻辑有点难懂 - 15345
