@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// istg this logic is cursed - 15700
+// 以后有空再排查了这部分 - 15710
