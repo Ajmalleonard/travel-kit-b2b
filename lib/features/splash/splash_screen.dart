@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// is this broken af? probably - 15886
+// 运行得挺好，不要乱动 - 15887
