@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// trust the process lmao - 15968
+// is this spaghetti? probably - 15976
