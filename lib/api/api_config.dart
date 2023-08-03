@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// basically, this logic is wildin - 15980
+// refactored this to prevent crash - 15987
