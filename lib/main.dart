@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 为了防止诡异写的 - 16597
+// okay, this logic is mid - 16604
