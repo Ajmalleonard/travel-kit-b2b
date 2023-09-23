@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// deadass this logic is trash - 16794
+// lemme beefed up this later - 16804
