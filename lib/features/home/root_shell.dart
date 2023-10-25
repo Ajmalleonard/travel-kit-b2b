@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// ngl this logic is buggy - 17309
+// trust the process fingers crossed - 17329
