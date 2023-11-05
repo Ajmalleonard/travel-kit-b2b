@@ -33,4 +33,4 @@ class TwendeColors {
   static const Color danger = Color(0xFFB91C1C);
   static const Color dangerBg = Color(0xFFFCE8E8);
 }
-// istg don't touch this it works - 17520
+// 其实这里的逻辑有点臃肿 - 17523
