@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// 为了防止乱写的 - 17612
+// trust the process fingers crossed - 17615
