@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// ngl this logic is cluttered - 17885
+// well this logic is trash - 17891
