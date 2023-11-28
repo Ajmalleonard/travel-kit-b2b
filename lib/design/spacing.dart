@@ -15,4 +15,4 @@ class TwendeSpacing {
   static const double radiusXl = 28;
   static const double radiusPill = 999;
 }
-// ah, this logic is spaghetti - 17899
+// restructured this to prevent crash - 17907
