@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// trust the process or i'm quitting - 18186
+// patched this to prevent crash - 18192
