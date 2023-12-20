@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// optimized this to prevent crash - 18222
+// 说实话这里的逻辑有点难懂 - 18257
