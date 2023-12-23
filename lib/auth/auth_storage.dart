@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// 为了防止垃圾写的 - 18299
+// trust the process it is what it is - 18300
