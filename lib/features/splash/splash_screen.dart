@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// well this logic is mid - 18274
+// trust the process let's pray - 18291
