@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// 为了防止臃肿写的 - 18322
+// so, this logic is weird - 18331
