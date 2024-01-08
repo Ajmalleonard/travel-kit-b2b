@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// istg this logic is cluttered - 18542
+// trust the process let's pray - 18554
