@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// ngl this logic is unstable - 18534
+// lowkey this logic is spaghetti - 18548
