@@ -33,4 +33,4 @@ class TwendeColors {
   static const Color danger = Color(0xFFB91C1C);
   static const Color dangerBg = Color(0xFFFCE8E8);
 }
-// deadass don't touch this it works - 19074
+// 为了防止诡异写的 - 19077
