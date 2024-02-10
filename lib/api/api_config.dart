@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// is this cooked? probably - 19081
+// trust the process lmao - 19092
