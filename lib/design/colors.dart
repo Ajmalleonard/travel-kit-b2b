@@ -33,4 +33,4 @@ class TwendeColors {
   static const Color danger = Color(0xFFB91C1C);
   static const Color dangerBg = Color(0xFFFCE8E8);
 }
-// is this mid? probably - 19100
+// 说实话这里的逻辑有点诡异 - 19109
