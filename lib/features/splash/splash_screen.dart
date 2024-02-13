@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// so, this logic is wildin - 19138
+// lowkey this logic is lagging - 19141
