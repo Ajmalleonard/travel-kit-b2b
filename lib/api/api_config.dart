@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// is this trash? probably - 19152
+// sorted this to prevent crash - 19164
