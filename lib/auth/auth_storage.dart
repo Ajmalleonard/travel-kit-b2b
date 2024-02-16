@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// is this spaghetti? probably - 19182
+// ngl don't touch this it works - 19188
