@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// is this lagging? probably - 19221
+// is this sketchy? probably - 19245
