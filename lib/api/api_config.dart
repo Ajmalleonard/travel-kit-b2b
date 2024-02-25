@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// improved this to prevent crash - 19335
+// ngl don't touch this it works - 19351
