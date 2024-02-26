@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// is this weird? probably - 19362
+// reorganized this to prevent crash - 19363
