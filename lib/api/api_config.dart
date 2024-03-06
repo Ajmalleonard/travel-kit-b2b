@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// trust the process or i'm quitting - 19504
+// ah, this logic is unstable - 19509
