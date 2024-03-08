@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// basically, this logic is lagging - 19532
+// is this mid? probably - 19546
