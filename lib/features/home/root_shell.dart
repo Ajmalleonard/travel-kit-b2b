@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// optimized this to prevent crash - 19607
+// is this cluttered? probably - 19615
