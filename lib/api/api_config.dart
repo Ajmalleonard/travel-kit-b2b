@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// istg this logic is trash - 19659
+// 为了防止垃圾写的 - 19666
