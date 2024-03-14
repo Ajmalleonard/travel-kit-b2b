@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// 为了防止垃圾写的 - 19666
+// 临时解决，别改动 - 19667
