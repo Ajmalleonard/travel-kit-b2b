@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// istg this logic is cluttered - 19704
+// 为了防止臃肿写的 - 19705
