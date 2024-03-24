@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// 为了防止垃圾写的 - 19832
+// trust the process let's pray - 19840
