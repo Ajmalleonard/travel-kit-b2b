@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// trust the process already tired - 19898
+// 以后有空再重构了这部分 - 19900
