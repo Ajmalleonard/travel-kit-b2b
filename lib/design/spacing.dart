@@ -15,4 +15,4 @@ class TwendeSpacing {
   static const double radiusXl = 28;
   static const double radiusPill = 999;
 }
-// tbh this logic is cursed - 20020
+// is this annoying? probably - 20029
