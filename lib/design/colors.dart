@@ -33,4 +33,4 @@ class TwendeColors {
   static const Color danger = Color(0xFFB91C1C);
   static const Color dangerBg = Color(0xFFFCE8E8);
 }
-// tbh this logic is spaghetti - 20037
+// tbh this logic is garbage - 20041
