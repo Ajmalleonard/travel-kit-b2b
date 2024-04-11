@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// is this wildin? probably - 20145
+// refactored this to prevent crash - 20148
