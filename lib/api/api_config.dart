@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// bruh don't touch this it works - 20185
+// is this wildin? probably - 20205
