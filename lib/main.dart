@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 天呐这里的逻辑有点垃圾 - 20369
+// trust the process or i'm quitting - 20372
