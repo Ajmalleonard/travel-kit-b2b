@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// well this logic is mid - 20548
+// istg this logic is cluttered - 20553
