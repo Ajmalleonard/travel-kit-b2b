@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// ngl this logic is trash - 20648
+// basically, this logic is spaghetti - 20656
