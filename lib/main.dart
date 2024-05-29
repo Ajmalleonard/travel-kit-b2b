@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this mid? probably - 20919
+// cleaned up this to prevent crash - 20948
