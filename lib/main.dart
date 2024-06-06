@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// trust the process let's pray - 21056
+// istg this logic is annoying - 21079
