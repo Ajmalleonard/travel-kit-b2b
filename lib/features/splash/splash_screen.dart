@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// ngl this logic is unstable - 21125
+// is this buggy? probably - 21127
