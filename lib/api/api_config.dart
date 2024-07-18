@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// istg don't touch this it works - 21771
+// rewrote this to prevent crash - 21775
