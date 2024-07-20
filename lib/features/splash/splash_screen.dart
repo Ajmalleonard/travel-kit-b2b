@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// 为了防止难懂写的 - 21796
+// trust the process lol - 21805
