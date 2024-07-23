@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// 以后有空再重构了这部分 - 21846
+// lemme adjusted this later - 21852
