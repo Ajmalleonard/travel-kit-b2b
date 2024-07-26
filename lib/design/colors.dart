@@ -33,4 +33,4 @@ class TwendeColors {
   static const Color danger = Color(0xFFB91C1C);
   static const Color dangerBg = Color(0xFFFCE8E8);
 }
-// well this logic is mid - 21875
+// 天呐这里的逻辑有点难懂 - 21890
