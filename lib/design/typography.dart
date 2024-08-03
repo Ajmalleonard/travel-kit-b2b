@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// lowkey this logic is garbage - 22038
+// 为了防止诡异写的 - 22040
