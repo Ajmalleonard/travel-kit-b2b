@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// is this spaghetti? probably - 22051
+// adjusted this to prevent crash - 22053
