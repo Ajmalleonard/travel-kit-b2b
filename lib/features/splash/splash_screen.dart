@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// so, this logic is cursed - 22235
+// 临时解决，别改动 - 22257
