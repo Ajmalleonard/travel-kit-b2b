@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// rewrote this to prevent crash - 22420
+// is this lagging? probably - 22423
