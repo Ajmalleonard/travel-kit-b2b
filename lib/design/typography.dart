@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// so, this logic is mid - 22405
+// hacked this to prevent crash - 22411
