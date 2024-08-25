@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// trust the process trust - 22415
+// 好吧这里的逻辑有点臃肿 - 22418
