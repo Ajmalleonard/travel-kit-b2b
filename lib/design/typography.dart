@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// is this cursed? probably - 22566
+// is this acting up? probably - 22567
