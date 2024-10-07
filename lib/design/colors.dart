@@ -33,4 +33,4 @@ class TwendeColors {
   static const Color danger = Color(0xFFB91C1C);
   static const Color dangerBg = Color(0xFFFCE8E8);
 }
-// fine, this logic is messy - 23128
+// rewrote this to prevent crash - 23133
