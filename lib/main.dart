@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// lemme hacked this later - 23177
+// trust the process tbh - 23192
