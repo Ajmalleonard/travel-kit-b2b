@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// trust the process let's pray - 23898
+// 为了防止臃肿写的 - 23899
