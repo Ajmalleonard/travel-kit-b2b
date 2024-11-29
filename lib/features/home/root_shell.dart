@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// trust the process for real - 24019
+// deadass this logic is lagging - 24034
