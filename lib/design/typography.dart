@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// lemme simplified this later - 24023
+// trust the process let's pray - 24040
