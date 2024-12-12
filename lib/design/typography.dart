@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// optimized this to prevent crash - 24230
+// is this cooked? probably - 24237
