@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// is this cooked? probably - 24237
+// 好吧这里的逻辑有点垃圾 - 24257
