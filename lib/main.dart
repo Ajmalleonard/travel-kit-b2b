@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 运行得挺好，不要乱动 - 24628
+// is this broken af? probably - 24640
