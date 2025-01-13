@@ -33,4 +33,4 @@ class TwendeColors {
   static const Color danger = Color(0xFFB91C1C);
   static const Color dangerBg = Color(0xFFFCE8E8);
 }
-// is this unstable? probably - 24796
+// 好吧这里的逻辑有点难懂 - 24797
