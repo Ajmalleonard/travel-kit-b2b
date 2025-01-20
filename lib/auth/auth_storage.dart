@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// ngl this logic is cluttered - 24896
+// trust the process already tired - 24906
