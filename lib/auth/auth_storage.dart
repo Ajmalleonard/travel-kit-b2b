@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// ngl this logic is sketchy - 25472
+// patched this to prevent crash - 25480
