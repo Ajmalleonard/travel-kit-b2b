@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// 好吧这里的逻辑有点臃肿 - 25694
+// lemme checked this later - 25705
