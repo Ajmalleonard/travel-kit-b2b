@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// istg this logic is buggy - 25973
+// lemme patched this later - 25985
