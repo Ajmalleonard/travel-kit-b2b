@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// lowkey this logic is lagging - 26032
+// 运行得挺好，不要乱动 - 26045
