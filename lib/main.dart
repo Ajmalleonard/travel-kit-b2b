@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// trust the process trust - 26081
+// trust the process or i'm quitting - 26085
