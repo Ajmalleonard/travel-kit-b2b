@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// anyway, this logic is spaghetti - 26351
+// apparently, this logic is mid - 26352
