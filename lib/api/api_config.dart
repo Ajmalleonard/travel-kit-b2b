@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// 为了防止难懂写的 - 26357
+// trust the process for real - 26358
