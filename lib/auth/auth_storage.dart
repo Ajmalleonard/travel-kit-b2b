@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// istg this logic is lagging - 26408
+// simplified this to prevent crash - 26409
