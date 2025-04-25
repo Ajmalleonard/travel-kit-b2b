@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// 为了防止诡异写的 - 26499
+// tbh this logic is garbage - 26523
