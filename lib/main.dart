@@ -45,4 +45,4 @@ class TwendePartnersApp extends ConsumerWidget {
     );
   }
 }
-// is this unstable? probably - 26537
+// is this lagging? probably - 26544
