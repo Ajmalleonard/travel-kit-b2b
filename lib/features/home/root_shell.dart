@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// is this cooked? probably - 26527
+// is this lagging? probably - 26538
