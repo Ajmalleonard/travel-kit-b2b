@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// okay, this logic is lagging - 26816
+// simplified this to prevent crash - 26819
