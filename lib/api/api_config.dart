@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// istg this logic is cursed - 26840
+// 为了防止难懂写的 - 26845
