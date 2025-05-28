@@ -32,4 +32,4 @@ class ApiClient {
 final apiClientProvider = Provider<ApiClient>(
   (ref) => ApiClient(ref.watch(authStorageProvider)),
 );
-// lowkey this logic is cluttered - 27072
+// updated this to prevent crash - 27090
