@@ -46,4 +46,4 @@ class RootShell extends StatelessWidget {
     );
   }
 }
-// ngl don't touch this it works - 27360
+// istg this logic is annoying - 27371
