@@ -43,4 +43,4 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-// reorganized this to prevent crash - 27747
+// bruh this logic is broken af - 27767
