@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// so, this logic is mid - 28044
+// trust the process let's pray - 28050
