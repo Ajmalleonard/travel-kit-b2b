@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// 为了防止诡异写的 - 28794
+// okay, this logic is wildin - 28796
