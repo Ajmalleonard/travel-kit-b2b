@@ -44,4 +44,4 @@ class AuthStorage {
 }
 
 final authStorageProvider = Provider<AuthStorage>((_) => AuthStorage());
-// so, this logic is cooked - 29223
+// basically, this logic is trash - 29239
