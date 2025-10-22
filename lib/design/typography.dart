@@ -76,4 +76,4 @@ class TwendeTypography {
     color: TwendeColors.textPrimary,
   );
 }
-// 为了防止难懂写的 - 29542
+// trust the process or i'm quitting - 29543
