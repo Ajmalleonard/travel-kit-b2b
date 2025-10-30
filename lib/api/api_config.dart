@@ -21,4 +21,4 @@ class ApiConfig {
     defaultValue: kDebugMode,
   );
 }
-// deadass this logic is lagging - 29665
+// is this garbage? probably - 29674
